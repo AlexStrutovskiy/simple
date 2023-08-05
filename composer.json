@@ -1,6 +1,11 @@
 {
   "name": "alexstrutovskiy/simple",
   "description": "Simple Lessons",
+  "authors": [
+    {
+      "name": "Alex Strutovskiy"
+    }
+  ],
   "license": [
     "proprietary"
   ],
@@ -8,5 +13,6 @@
     "psr-4": {
       "Simple\\Lessons\\": "src"
     }
-  }
+  },
+  "require": {}
 }
