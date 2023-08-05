@@ -1,4 +1,6 @@
 {
+  "name": "alexstrutovskiy/simple",
+  "description": "Simple Lessons",
   "autoload": {
     "psr-4": {
       "Simple\\Lessons\\": "src"
