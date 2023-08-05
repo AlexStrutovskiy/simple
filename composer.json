@@ -1,6 +1,9 @@
 {
   "name": "alexstrutovskiy/simple",
   "description": "Simple Lessons",
+  "license": [
+    "proprietary"
+  ],
   "autoload": {
     "psr-4": {
       "Simple\\Lessons\\": "src"
